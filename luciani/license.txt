@@ -1,0 +1,33 @@
+These footprints/symbols (c) John Luciani, http://www.luciani.org
+
+No-Fee Symbol License Version 0.2
+
+Intent
+
+The intent of this license is to allow for distribution of these symbols 
+individually or in a collection without fee. Usage of these symbols, 
+other than distribution, is unrestricted.
+
+License
+
+Permission is granted to distribute these symbols verbatim, individually 
+or in a collection, provided that
+    (1) no fee is charged and
+    (2) the individual symbol or symbol collection is licensed under terms 
+        identical to this one.
+
+Permission is granted to make and distribute modified versions of these 
+symbols individually or in a collection under the conditions for verbatim 
+distribution, provided that the entire resulting distribution is released 
+with license terms identical to this one.
+
+These symbols are provided by the author "AS IS" and any express or implied 
+warranties, including, but not limited to, the implied warranties of 
+merchantability and fitness for a particular purpose are disclaimed. In no 
+event shall the author be liable for any direct, indirect, incidental, special, 
+exemplary, or consequential damages (including, but not limited to, 
+procurement of substitute goods or services; loss of use, data, or profits; 
+or business interruption) however caused and on any theory of liability, 
+whether in contract, strict liability, or tort (including negligence or 
+otherwise) arising in any way out of the use of this software, even if advised 
+of the possibility of such damage.
